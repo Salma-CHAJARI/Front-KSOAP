@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SOAPcompte</string>
+    <string-array name="format_choices">
+        <item>COURANT</item>
+        <item>EPARGNE</item>
+    </string-array>
+</resources>
